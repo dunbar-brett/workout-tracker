@@ -1,0 +1,130 @@
+[
+  {
+    "id": 1,
+    "name": "Dumbell Bench Press",
+    "sets": 4,
+    "reps": "8 - 12",
+    "bodyTarget": "upper",
+    "routine": "A",
+    "link": "https://youtu.be/dGqI0Z5ul4k"
+  },
+  {
+    "id": 2,
+    "name": "Machine Chest Fly",
+    "sets": 3,
+    "reps": "10 - 15",
+    "bodyTarget": "upper",
+    "routine": "A",
+    "link": "https://www.muscleandstrength.com/exercises/pec-dec.html"
+  },
+  {
+    "id": 3,
+    "name": "Dumbell Row",
+    "sets": 4,
+    "reps": "8 - 12",
+    "bodyTarget": "upper",
+    "routine": "A",
+    "link": "https://youtu.be/DhewkuU_95s"
+  },
+  {
+    "id": 4,
+    "name": "Lat Pull Down",
+    "sets": 4,
+    "reps": "8 - 12",
+    "bodyTarget": "upper",
+    "routine": "A",
+    "link": "https://youtu.be/iKrKgWR9wbY"
+  },
+  {
+    "id": 5,
+    "name": "Machine Shoulder Press",
+    "sets": 4,
+    "reps": "8 - 12",
+    "bodyTarget": "upper",
+    "routine": "A",
+    "link": "https://youtu.be/fj_VAk1jfZ8"
+  },
+  {
+    "id": 6,
+    "name": "Dumbbell Lateral Raise",
+    "sets": 3,
+    "reps": "10 - 15",
+    "bodyTarget": "upper",
+    "routine": "A",
+    "link": "https://www.muscleandstrength.com/exercises/dumbbell-lateral-raise.html"
+  },
+  {
+    "id": 7,
+    "name": "Machine Tricep Dip",
+    "sets": 2,
+    "reps": "8 - 12",
+    "bodyTarget": "upper",
+    "routine": "A",
+    "link": "https://www.muscleandstrength.com/exercises/tricep-dip.html"
+  },
+  {
+    "id": 8,
+    "name": "Cable Curl",
+    "sets": 2,
+    "reps": "10 -15",
+    "bodyTarget": "upper",
+    "routine": "A",
+    "link": "https://www.muscleandstrength.com/exercises/cable-curl.html"
+  },
+  {
+    "id": 9,
+    "name": "Leg Press",
+    "sets": 4,
+    "reps": "8 - 12",
+    "bodyTarget": "lower",
+    "routine": "A",
+    "link": "https://youtu.be/sEM_zo9w2ss"
+  },
+  {
+    "id": 10,
+    "name": "Dumbbell Stiff Leg Deadlift",
+    "sets": 4,
+    "reps": "8 - 12",
+    "bodyTarget": "lower",
+    "routine": "A",
+    "link": "https://www.muscleandstrength.com/exercises/dumbbell-stiff-leg-deadlift.html"
+  },
+  {
+    "id": 11,
+    "name": "Leg Extension",
+    "sets": 3,
+    "reps": "12 - 15",
+    "bodyTarget": "lower",
+    "routine": "A",
+    "link": "https://youtu.be/0fl1RRgJ83I"
+  },
+  {
+    "id": 12,
+    "name": "Leg Curl",
+    "sets": 3,
+    "reps": "12 - 15",
+    "bodyTarget": "lower",
+    "routine": "A",
+    "link": "https://www.muscleandstrength.com/exercises/leg-curl.html"
+  },
+  {
+    "id": 13,
+    "name": "Machine Glute Kickback",
+    "sets": 3,
+    "reps": "12 - 15",
+    "bodyTarget": "lower",
+    "routine": "A",
+    "link": null
+  },
+  {
+    "id": 14,
+    "name": "Standing Calf Raise",
+    "sets": 3,
+    "reps": "20",
+    "bodyTarget": "lower",
+    "routine": "A",
+    "link": "https://youtu.be/RBslMmWqzzE"
+  }
+  
+]
+
