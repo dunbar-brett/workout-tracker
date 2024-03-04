@@ -18,11 +18,12 @@ function WorkoutForm() {
   };
   
   return (
-    <form>
+    <form className='space-y-3 md:space-y-5 lg:w-[40rem] mx-auto'>
       {routines.map((exercise) => (
-        <div key={exercise.name}>
-          <label htmlFor={exercise.weight}>{exercise.name} -- Sets: {exercise.sets} Reps: {exercise.reps}</label>
+        <div key={exercise.name} className='flex-1 rounded-lg bg-gray-100 p-4 md:p-8'>
+          <label htmlFor={exercise.weight} className="block text-sm font-medium text-gray-700">{exercise.name} -- Sets: {exercise.sets} Reps: {exercise.reps}</label>
           <input type="text"
+            className='mt-1 p-2 w-full border rounded-md'
             id={exercise.id.toString()}
             name={exercise.weight}
             value={weights[exercise.name] || ''}
